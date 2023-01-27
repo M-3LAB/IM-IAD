@@ -1,5 +1,5 @@
-# IM-VAD
-
+# IM-VAD: Vision Anomaly Detection Benchmark in Industrial Manufacturing
+## Vanilla results on MVTec AD
 | Vanilla   | MVTec AD  | Bottle | cable  | capsule | carpet | grid   | hazelnut | leather | metal_nut | pill   | screw  | tile   | toothbrush | transistor | wood   | zipper | average |
 |-----------|-----------|--------|--------|---------|--------|--------|----------|---------|-----------|--------|--------|--------|------------|------------|--------|--------|---------|
 | CFA       | Image AUC | 1.000  | 0.994  | 0.999   | 0.947  | 0.997  | 0.996    | 0.986   | 0.965     | 0.985  | 0.983  | 0.999  | 1.000      | 0.994      | 0.974  | 0.888  | 0.981   |
