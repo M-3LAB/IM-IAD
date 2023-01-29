@@ -942,3 +942,20 @@
 |           | Structural sPRO 1.0  | 0.740         | 0.965        | 0.914    | 0.900     | 0.980               | 0.900   |
 |           | Logical sPRO 1.0     | 0.810         | 0.960        | 0.855    | 0.814     | 0.917               | 0.871   |
 |           | Mean sPRO 1.0        | 0.775         | 0.962        | 0.885    | 0.857     | 0.949               | 0.886   |
+
+## The results of vanilla setting on MPDD
+## The results with 0.05 noise ratio on MPDD
+## The results with 0.1 noise ratio on MPDD
+## The results with 0.15 noise ratio on MPDD
+## The results with 0.2 noise ratio on MPDD
+## The results with 1 shot images on MPDD
+## The results with 2 shot images on MPDD
+## The results with 4 shot images on MPDD
+## The results with 8 shot images on MPDD
+## The performance of continual setting on MPDD
+## The Corresponding FM of continual setting on MPDD
+## The results of semi-supervised methods with annotated images on MPDD
+
+## The results of vanilla setting on BTAD and MTD
+## The results of vanilla setting on DAGM
+## The results of vanilla setting on VisA
