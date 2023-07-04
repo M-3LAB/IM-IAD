@@ -1,5 +1,6 @@
 # IM-IAD: Industrial Image Anomaly Detection Benchmark in Manufacturing
-## We will expose the relevant code framework soon.[[code]](https://github.com/M-3LAB/open-ad)
+
+[[Main Page]](https://github.com/M-3LAB) [[Survey]](https://github.com/M-3LAB/awesome-industrial-anomaly-detection) [[Benchmark]](https://github.com/M-3LAB/open-iad) [[Result]](https://github.com/M-3LAB/IM-IAD)
 
 ## The results of vanilla setting on MVTec AD
 | Vanilla   | MVTec AD  | Bottle | cable  | capsule | carpet | grid   | hazelnut | leather | metal_nut | pill   | screw  | tile   | toothbrush | transistor | wood   | zipper | average |
